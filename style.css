@@ -1,0 +1,17 @@
+
+.block {
+    width: 150px;
+    height: 150px;
+    background: red;
+    margin: 5px;
+}
+
+#box {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#input {
+    width: 250px;
+}
